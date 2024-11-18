@@ -7,5 +7,6 @@ public class DemoProject {
 	@Test
 	public void demo() {
 		Reporter.log("Project Updated");	
+		//Reporter.log
 	}
 }
